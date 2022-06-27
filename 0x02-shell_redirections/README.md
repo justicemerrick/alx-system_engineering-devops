@@ -22,4 +22,7 @@ task 19. A to Z. #Replace all characters A and c from input to Z and e respectiv
 task 20. Without C, you would live in hiago. #Create a script that removes all letters c and C from input.
 task 21. esreveR. #Write a script that reverse its input.
 task 22. DJ Cut Killer. #Write a script that displays all users and their home directories, sorted by users.
-task 23.  
+task 23.Empty casks make the most noise #Write a command that finds all empty files and directories in the current directory and all sub-directories.
+task 24. A gif is worth ten thousand words #Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories
+task 25. Acrostic
+task 26. The biggest fan #Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
